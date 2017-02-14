@@ -1,3 +1,14 @@
-Heading Section in Table
-Menu Section in Table on Left Side
-Footer Section in Table
+<DOCTYPE HTML>
+<html>
+<head>
+</head>
+<body>
+<table>
+  <tr>
+    <td>
+      <h1>Heading</h1>
+    </td>
+  </tr>
+</table>
+</body
+</html>
